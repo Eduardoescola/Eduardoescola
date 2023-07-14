@@ -1,11 +1,11 @@
-### Boas vindas ao meu perfil 💙
+### Boas Vindas Ao Meu Perfil 💙
 
-Meu Nome é Eduardo sulivan 
-- estou estudando no alura
-- estou me desenvolvendo na linguagem de javascript
-- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Meu Nome É Eduardo Sulivan 
+- Estou Estudando No Alura
+- Estou Me Desenvolvendo Na Linguagem de JavaScript
+- Utilizo Esse Espaço Para Minha Organização E Compartilhamento Dos Meus Projetos Desenvolvidos
 
-### Você pode entrar em contato comigo 📫
+### Você Pode Entrar Em Contato Comigo 📫
 
 Gmail: eduardo.sulivan.silva@escola.pr.gov.br
 
